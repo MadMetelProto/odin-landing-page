@@ -1,0 +1,314 @@
+html{
+
+    background-color: black;
+}
+
+
+body{
+
+margin-left: 240px;
+margin-right: 240px;
+
+}
+
+
+
+.class_1{
+font-style:bold;
+background-color:#1F2937;
+color: #f9faf8;
+margin: -8px;
+display: flex;
+}
+
+
+
+
+#list_of_links {
+background-color:#1F2937;
+display: inline;
+margin-left: 0px;
+
+}
+
+#list_1{
+
+    margin-left: 590px;
+
+}
+
+#list_1 li{
+
+    display: inline;
+    margin-left: 30px;
+}
+
+#title_1{
+
+width: 345px;
+margin-left: 0px;
+
+
+}
+
+.resize{
+    max-width: 100px;
+    height: 50px;
+    }
+
+#line_2{
+
+
+display:flex;
+
+
+}
+
+
+#b1{
+width: 131px;
+height: 38px;
+margin-left: 0px;
+color: #f9faf8;
+background-color: #3882F6;
+margin-top: 0px;
+border-radius: 8px;
+margin-top: 3px;
+font-size: medium;
+font-weight: bold;
+
+
+}
+
+#sign_up{
+background-color: #3882F6;
+width: 925px;
+height: 50px;
+border-radius: 8px;
+padding: 50px;
+margin-left: 208px;
+margin-top: 99px;
+margin-right: 100px;
+color: white;
+display: flex;
+
+
+}
+
+#idk_3{
+
+display: block;
+
+
+
+}
+
+#sign_up-h{
+    background-color: #3882F6;
+    width: 300px;
+margin-top: -3px;
+margin-left: 70px;
+font-size: 23px;
+font-family: sans-serif;
+font-weight: bold;
+}
+
+#sign_up-a{
+background-color: #3882F6;
+width: 450px;
+margin-left: 70px;
+font-size: medium;
+
+}
+
+
+#b2{
+background-color: #3882F6;
+color: white;
+margin-top: 0px;
+border-color: white;
+border-radius: 5px;
+width: 150px;
+height: 40px;
+margin-left: 100px;
+font-size: large;
+font-weight: bold;
+
+}
+
+#quote1{
+
+    display: block;
+   background-color: #e5e7eb;
+height: 410px;
+width: 1241px;
+margin-top: 430px;
+font-size: 35px;
+padding-top: 20px;
+padding-left: 200px;
+
+}
+
+#quote2{
+    display:flex;
+justify-content: center;
+background-color: #e5e7eb;
+color: black;
+height: 180px;
+width: 805px;
+margin-left: 142px;
+margin-top: 110px;
+margin-bottom: 10px;
+margin-right: 0px;
+font-family: sans-serif;
+font-weight: lighter;
+
+}
+
+#quote3{
+display: flex;
+margin-left: 630px;
+color: black;
+background-color: #e5e7eb;
+font-size: 20px;
+font-family: sans-serif;
+height: 50px;
+width: 600px;
+margin-top: 00px;
+
+}
+
+
+
+
+#h2{
+display: flex;
+justify-content: center;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 50px;
+font-size: 35px;
+font-weight: bold;
+
+
+
+}
+
+
+#image_1{
+height: 240px;
+width: 524px;
+margin-top: 115px;
+margin-left: 155px;
+
+}
+
+#h1{
+font-family:sans-serif;
+font-size: 48px;
+font-weight: 900;
+margin-top: 120px;
+
+
+
+}
+
+#images_4{
+display: flex;
+justify-content: space-between;
+width: 200px;
+height: 200px;
+margin-left: 230px;
+border-radius: 15px;
+margin-bottom: -270px;
+
+}
+
+#poker_image{
+
+margin-left: -150px;
+
+}
+
+#chess_image{
+
+margin-left: 30px;
+
+
+}
+
+#autumn_image{
+
+margin-left: 30px;
+
+
+}
+
+#pc_gaming_img{
+
+margin-left: 30px;
+
+}
+
+#text_1{
+
+    display: block;
+}
+
+h4{
+    
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 340px;}
+
+#header_logo{
+width: 0px;
+margin-left: 210px;
+margin-top: 20px;
+font-family: sans-serif
+}
+
+#header_background{
+flex: 1 1 auto;
+background-color: #1F2937;
+display: flex;
+height: 535px;
+
+}
+
+a{
+
+color: #f9faf8;
+
+
+}
+
+#white_background{
+color: black;
+background-color: #f9faf8;
+height: 1400px;
+width: 1441px;
+margin-left: -8px;
+margin-top: -20px;
+}
+
+#copyright{
+color: white;
+width: 1441px;
+height: 57px;
+background-color: #1F2937;
+margin-top: -18px;
+margin-left: -8px;
+padding-top: 35px;
+
+}
+
+
+#cpr{
+display: flex;
+justify-content: center;
+font-size: larger;
+}
+
+
+
